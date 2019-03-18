@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Cinnamon + xmonad
+Comment=This session logs you into Cinnamon with xmonad as the window manager
+Exec=cinnamon-session-xmonad
+TryExec=/usr/bin/xmonad-cinnamon
+Icon=
+Type=Application

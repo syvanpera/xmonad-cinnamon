@@ -1,0 +1,6 @@
+# -*- mode: conf -*-
+
+[Cinnamon Session]
+Name=xmonad-cinnamon
+RequiredComponents=xmonad-cinnamon;cinnamon-screensaver;nm-applet;cinnamon-killer-daemon;polkit-gnome-authentication-agent-1;
+DesktopName=X-Cinnamon
