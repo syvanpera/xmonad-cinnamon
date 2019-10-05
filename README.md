@@ -1,4 +1,4 @@
-# xmonad-cinnamon [![License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/) [![Maintenance](https://img.shields.io/maintenance/yes/2018.svg)]()
+# xmonad-cinnamon [![License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/)
 
 Allows you to use xmonad wm with Cinnamon Session infrastructure. This is completely based on [i3-cinnamon](https://github.com/jbbr/i3-cinnamon)
 
