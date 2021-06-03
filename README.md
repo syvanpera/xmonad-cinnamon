@@ -1,10 +1,9 @@
 # xmonad-cinnamon [![License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/)
 
-Allows you to use xmonad wm with Cinnamon Session infrastructure. This is completely based on [i3-cinnamon](https://github.com/jbbr/i3-cinnamon)
+Allows you to use xmonad wm with Cinnamon Session infrastructure. Based on [i3-cinnamon](https://github.com/jbbr/i3-cinnamon)
 
-# What to expect from this?
-With `xmonad-cinnamon` you get along with xmonad (Window Manager) and GNOME (Desktop Environment) instead of metacity (the default window manager of GNOME).
-See [more](https://github.com/lvillani/i3-gnome/issues/10).
+## What do I get by installing it?
+A bridge that keeps your stuff from Cinnamon in an XMonad environment. Useful for people that are getting started with XMonad, but don't want to uninstall their current desktop environment.
 
 - Cinnamon screensaver & lockscreen
 - Cinnamon power settings
@@ -23,6 +22,7 @@ See [more](https://github.com/lvillani/i3-gnome/issues/10).
 * GDM or LightDM (might also work with others)
 
 # Installation
+* For Arch users see the [AUR package](https://aur.archlinux.org/packages/xmonad-cinnamon-git/) for a more easy installation.
 
 Using `make`:
 * download the repo.
